@@ -8,7 +8,7 @@ Data Example:
 - Meta-Tags Information
  
 Usage:
-  python3 source_search.py https://www.domain.com/
+- python3 source_search.py https://www.domain.com/
   
   
 Requirements:
