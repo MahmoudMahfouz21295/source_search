@@ -16,5 +16,13 @@ Requirements:
 - urllib3 library
 - re library
 - colorado library
-  
- 
+
+Author : Mahmoud Mahfouz
+
+Twitter : @MahmoudZ0x1
+
+Github : https://github.com/MahmoudMahfouz21295/
+
+Facebook : https://www.facebook.com/profile.php?id=100073159347097
+
+Youtube : https://www.youtube.com/channel/UC7udOW9wUNkCDCgD7tu5dvA
