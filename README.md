@@ -6,11 +6,11 @@ Data Example:
 - Comments
 - Javascript Files
 - Meta-Tags Information
- 
+
 Usage:
 - python3 source_search.py https://www.domain.com/
-  
-  
+
+
 Requirements:
 - requests library
 - urllib3 library
